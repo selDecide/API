@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_AWxHEdGvEe-3W6ZQ50N7_w" label="ApiDecied" language="java" technicalLabel="APIDECIED" author="_AWxHEtGvEe-3W6ZQ50N7_w" productVersion="Talend Cloud Data Management Platform-8.0.1.20240524_0800-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/selDecide/API.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_AXv-gNGvEe-3W6ZQ50N7_w" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_AWxHEtGvEe-3W6ZQ50N7_w" login="selyadini@trial33646.eu.talend.com" firstName="Said" lastName="EL YADINI" type="DQ"/>
+</xmi:XMI>
